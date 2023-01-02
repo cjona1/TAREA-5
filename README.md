@@ -56,7 +56,7 @@ OBJETIVOS ESPECÍFICOS
 
 # 3.-EXPLICACION Y RESOLUCION DE PROBLEMAS.
 
-#      Problemas cap 9
+#  Problemas cap 9
 
 SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
