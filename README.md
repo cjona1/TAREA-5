@@ -62,7 +62,7 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
 2. Evalúe cada determinante:
  
-![image](https://user-images.githubusercontent.com/116817673/210260036-354c85d5-2f61-4317-8a51-5a3c6a707226.png)
+ ![image](https://user-images.githubusercontent.com/116817673/210266076-a9d4d1ea-bd8d-44b5-9cd1-18f22aaf8cc8.png)
 
 4. Evalúe cada uno de los determinantes:
 
@@ -227,7 +227,7 @@ El campo magnético no cambia, por lo cual, no existe voltaje inducido.
 
 En el presente video se explican unos ejercicios para la mejor comprensión del tema.
 
-
+https://youtu.be/mlt-vs1FDQ8
 
 # 5.-CONCLUSIONES
 
@@ -253,23 +253,4 @@ Floyd, T. L. (2007). Principios de Circuitos Eléctricos. México: Pearson Educa
 # 7.-RUBRICA:
 
 ![image](https://user-images.githubusercontent.com/116817673/210264269-161a530f-1795-464e-9bb4-05e006e93cbc.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
